@@ -36,10 +36,6 @@ To create an interactive dashboard for a fictional retail business that tracks:
 
 | `Raw\_Data.xlsx` | Original dummy dataset with 300 rows of sales transactions |
 
-| `Cleaned\_Data.xlsx` | (Optional) Cleaned or modified version used for analysis |
-
-| `PowerBI\_Dashboard.pbix` | (Optional) Power BI version of the same dashboard |
-
 | `Screenshots/dashboard\_view.png` | Final Excel dashboard screenshot |
 
 | `README.md` | Project documentation |
@@ -77,9 +73,7 @@ To create an interactive dashboard for a fictional retail business that tracks:
 \- \*\*Sales Trend\*\*: June and September showed peak sales months.
 
 
-
 ---
-
 
 
 \## 💡 What I Learned
@@ -91,11 +85,6 @@ To create an interactive dashboard for a fictional retail business that tracks:
 \- Presenting business insights effectively through clean visuals.
 
 
-
----
-
-
-
 \## 📈 Future Improvements
 
 \- Add year-over-year comparison
@@ -104,19 +93,12 @@ To create an interactive dashboard for a fictional retail business that tracks:
 
 \- Expand to Power BI for additional interactivity
 
-
-
----
-
-
-
 \## 🔗 Connect with Me
 
-\- \[LinkedIn](https://linkedin.com/in/your-profile)  
+\- \[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rasheed-ahmad-820636310/))   
 
-\- \[GitHub](https://github.com/yourusername)  
+\- Email: Rasheed47842@gmail.com
 
-\- Email: your.email@example.com
 
 
 
